@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeREST-API_JSON", "KanyeREST-API_JSON\KanyeREST-API_JSON.csproj", "{866A25D9-3E72-4C76-904B-EFE93C92C4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866A25D9-3E72-4C76-904B-EFE93C92C4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866A25D9-3E72-4C76-904B-EFE93C92C4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866A25D9-3E72-4C76-904B-EFE93C92C4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866A25D9-3E72-4C76-904B-EFE93C92C4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9BC497-AD54-4C48-B68C-98384FFCB864}
+	EndGlobalSection
+EndGlobal
